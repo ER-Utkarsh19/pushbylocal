@@ -1,0 +1,14 @@
+command
+git init :initialize my windows folder as git local repo
+git add --a: to include my file into git local repo to add 
+git commit -m "message" : purpose is to save information of files into git local repo or like comment 
+git status : status of any pending files
+git origin -m:
+
+----------------------------------------------------------------
+only need to use once 
+git branch -m:
+git  remote add origin link
+git push -u origin main:
+git clone https://(link): the repo is pasted in local environment
+ -----------------------------------------------------------------
